@@ -17,7 +17,7 @@ spring boot示例，从头开始一步步学习spring boot
 
 # Spring Boot 学习历程
 
-- [X] [简单`web`开发`Hello World`](#menu1)
+- [X] [简单开发`Hello Spring Booot`](#menu1)
 - [ ] [返回`json`数据](#menu2)
 - [ ] [热部署](#menu3)
 - [ ] [全局配置](#menu4)
@@ -37,11 +37,11 @@ spring boot示例，从头开始一步步学习spring boot
 
 ---
 
-##  <span id="menu1">1.简单`web`开发`Hello World` </span>
+##  <span id="menu1">1.简单开发`Hello Spring Booot` </span>
 
-- 部署简单的`spring boot web`项目，配置`controller`及`RequestMapping`
+- 部署简单的`spring boot web`项目，配置`RestController`及`RequestMapping`
 
-- 启动 `HellloWorldApplication`，调用本地端口即可访问(http://localhost:8080/hello/hello)
+- 启动 `Learn1HellospringbootApplication`，调用本地端口即可访问(http://localhost:8080/)
 
 ---
 
