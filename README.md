@@ -14,7 +14,7 @@ spring boot示例，从头开始一步步学习spring boot
 
 ## Spring Boot 学习历程
 
-- [ ] `Hello World` 示例 : 启动 [`HellloWorldApplication`](http://localhost:8080/hello/hello)
+- [X] `Hello World` 示例 : 启动 [`HellloWorldApplication`](http://localhost:8080/hello/hello)
 - [ ] `web` 开发
 - [ ] `redis` 使用
 - [ ] `Thymeleaf` 使用
