@@ -12,7 +12,8 @@
 
     <!-- 各个模块 -->
     <modules>
-
+        <module>learn-1-hellospringboot</module>
+        <module>learn-2-returnjson</module>
     </modules>
 
     <!-- 全局配置的版本号 -->

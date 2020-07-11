@@ -18,7 +18,7 @@ spring boot示例，从头开始一步步学习spring boot
 # Spring Boot 学习历程
 
 - [X] [简单开发`Hello Spring Booot`](#menu1)
-- [ ] [返回`json`数据](#menu2)
+- [X] [返回`json`数据](#menu2)
 - [ ] [热部署](#menu3)
 - [ ] [全局配置](#menu4)
 - [ ] [`redis` 使用](#menu5)
